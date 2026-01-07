@@ -1,3 +1,3 @@
-# Open Democratic Constitution
+# Constitution of The People
 
 We are building a baseline for a constitution. What we are not is building one for a specific nation. Thus, this will neither be liberal nor conservative, nor left or right. It will be a neutral starting point for any nation to build upon. It is assumed that during the process, several branches will be forked to acommodate different ideologies. This is simply the base. Feel free to fork and modify it to your needs. Constitutions are living documents and should be adapted to the needs of the people they serve. Constitution should not be a bottleneck for progress, but rather a facilitator of it. Beuracracy should be minimized to the extent possible, while still ensuring that the rights of the people are protected. We the people should be the ultimate source of power, and our constitutions should reflect that.
